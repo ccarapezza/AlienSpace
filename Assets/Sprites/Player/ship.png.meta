@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: d0458c4380302b64bb3a4754401c434f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4360530552843628718
+    second: ship_0
+  - first:
+      213: 7165950743707284623
+    second: ship_1
+  - first:
+      213: -3352868958805856340
+    second: ship_2
+  - first:
+      213: -4506795734596175823
+    second: ship_3
+  - first:
+      213: -2202765497068720075
+    second: ship_4
+  - first:
+      213: 4517840517350341740
+    second: ship_5
+  - first:
+      213: -5411077673283184763
+    second: ship_6
+  - first:
+      213: -460345444013144718
+    second: ship_7
+  - first:
+      213: 3944407754453173195
+    second: ship_8
+  - first:
+      213: -2760468006007017277
+    second: ship_9
+  - first:
+      213: -4608959438363960359
+    second: ship_10
+  - first:
+      213: -3278159117447047364
+    second: ship_11
+  - first:
+      213: -8222560534873368508
+    second: ship_12
+  - first:
+      213: -1817603261323589667
+    second: ship_13
+  - first:
+      213: -5996722595571475987
+    second: ship_14
+  - first:
+      213: 2722411348243805451
+    second: ship_15
+  - first:
+      213: 3059715649910158471
+    second: ship_16
+  - first:
+      213: -8165502168506374079
+    second: ship_17
+  - first:
+      213: 5924704499549449582
+    second: ship_18
+  - first:
+      213: -811715500321782484
+    second: ship_19
+  - first:
+      213: 4815190009212440229
+    second: ship_20
+  - first:
+      213: 2696920594598433002
+    second: ship_21
+  - first:
+      213: 4269255294100295831
+    second: ship_22
+  - first:
+      213: 4917106423773605014
+    second: ship_23
+  - first:
+      213: -8154426820797233000
+    second: ship_24
+  - first:
+      213: 7603918093877024633
+    second: ship_25
+  - first:
+      213: -6802536128726882102
+    second: ship_26
+  - first:
+      213: -6397704172999597746
+    second: ship_27
+  - first:
+      213: -5182990043621749309
+    second: ship_28
+  - first:
+      213: -1814192413854332294
+    second: ship_29
+  - first:
+      213: 3722909589580135727
+    second: ship_30
+  - first:
+      213: 4768495907261786438
+    second: ship_31
+  - first:
+      213: 8913104137368897007
+    second: ship_32
+  - first:
+      213: -891494451562082645
+    second: ship_33
+  - first:
+      213: -1612365479922943383
+    second: ship_34
+  - first:
+      213: -6438165429477567058
+    second: ship_35
+  - first:
+      213: -7234685027485427410
+    second: ship_36
+  - first:
+      213: 5152768331568580198
+    second: ship_37
+  - first:
+      213: 1029328677275215569
+    second: ship_38
+  - first:
+      213: -1317222793566014879
+    second: ship_39
+  - first:
+      213: -2614289421218791160
+    second: ship_40
+  - first:
+      213: -8366647769677444312
+    second: ship_41
+  - first:
+      213: -7921436192152870047
+    second: ship_42
+  - first:
+      213: -2411500361102817643
+    second: ship_43
+  - first:
+      213: -7935583569345838420
+    second: ship_44
+  - first:
+      213: 605650023660419048
+    second: ship_45
+  - first:
+      213: 8538445672380044101
+    second: ship_46
+  - first:
+      213: -4584400853436581345
+    second: ship_47
+  - first:
+      213: -1165960379658528901
+    second: ship_48
+  - first:
+      213: 8629114354759044901
+    second: ship_49
+  - first:
+      213: -3265154694832017062
+    second: ship_50
+  - first:
+      213: -3703392270700608
+    second: ship_51
+  - first:
+      213: 852769725130530172
+    second: ship_52
+  - first:
+      213: 6678632225354902539
+    second: ship_53
+  - first:
+      213: -7594137793143355085
+    second: ship_54
+  - first:
+      213: 9077672278671613362
+    second: ship_55
+  - first:
+      213: -5178027639190200643
+    second: ship_56
+  - first:
+      213: -3153624198524309536
+    second: ship_57
+  - first:
+      213: 6345534163341476808
+    second: ship_58
+  - first:
+      213: 1254434723534480395
+    second: ship_59
+  - first:
+      213: -541539413724803400
+    second: ship_60
+  - first:
+      213: 8182497673551404284
+    second: ship_61
+  - first:
+      213: 5810622320271915132
+    second: ship_62
+  - first:
+      213: -8027460756455150467
+    second: ship_63
+  - first:
+      213: -3728171544355424057
+    second: ship_64
+  - first:
+      213: -1303420274228268117
+    second: ship_65
+  - first:
+      213: 8928204561967856448
+    second: ship_66
+  - first:
+      213: -3229096201139807032
+    second: ship_67
+  - first:
+      213: -5215879950693051176
+    second: ship_68
+  - first:
+      213: 9194337637601041211
+    second: ship_69
+  - first:
+      213: 5283357698139347829
+    second: ship_70
+  - first:
+      213: -7090432808016936921
+    second: ship_71
+  - first:
+      213: -1088876004944332476
+    second: ship_72
+  - first:
+      213: -1129761190770859234
+    second: ship_73
+  - first:
+      213: -8138799105361747719
+    second: ship_74
+  - first:
+      213: 4540781512260515675
+    second: ship_75
+  - first:
+      213: -8864215865194060208
+    second: ship_76
+  - first:
+      213: 8043923525193520420
+    second: ship_77
+  - first:
+      213: 2296680118079505223
+    second: ship_78
+  - first:
+      213: -3948256195579557076
+    second: ship_79
+  - first:
+      213: -4088453296543952290
+    second: ship_80
+  - first:
+      213: 1893996216237200657
+    second: ship_81
+  - first:
+      213: -7137332378276922136
+    second: ship_82
+  - first:
+      213: 3705566920353858667
+    second: ship_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ship_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f8485b0984c73c0800000000000000
+      internalID: -4360530552843628718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f847e9c0c32927360800000000000000
+      internalID: 7165950743707284623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf61fb32773871d0800000000000000
+      internalID: -3352868958805856340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138362c4825a471c0800000000000000
+      internalID: -4506795734596175823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5307bbf73743e61e0800000000000000
+      internalID: -2202765497068720075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cb884930892be30800000000000000
+      internalID: 4517840517350341740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 2d3c5b878f4bb074fb94ce7fa308e4c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3485638056935749882
+    second: orbe_0
+  - first:
+      213: 7691235795730877876
+    second: orbe_1
+  - first:
+      213: -7413476544146000862
+    second: orbe_2
+  - first:
+      213: -5491699948329312799
+    second: orbe_3
+  - first:
+      213: -356207428203669746
+    second: orbe_4
+  - first:
+      213: -2111293252789208996
+    second: orbe_5
+  - first:
+      213: -5192909462639025758
+    second: orbe_6
+  - first:
+      213: -4919727510695832492
+    second: orbe_7
+  - first:
+      213: 985397918839024681
+    second: orbe_8
+  - first:
+      213: -4190411412181420348
+    second: orbe_9
+  - first:
+      213: -7149437932492917356
+    second: orbe_10
+  - first:
+      213: 3177268310252486992
+    second: orbe_11
+  - first:
+      213: 3669078720748055546
+    second: orbe_12
+  - first:
+      213: 3630478159341687327
+    second: orbe_13
+  - first:
+      213: 7552169846943325591
+    second: orbe_14
+  - first:
+      213: -6359101689512275330
+    second: orbe_15
+  - first:
+      213: 6113024623664329924
+    second: orbe_16
+  - first:
+      213: 5709929294780446929
+    second: orbe_17
+  - first:
+      213: -3605509121796828776
+    second: orbe_18
+  - first:
+      213: 2605879662395412051
+    second: orbe_19
+  - first:
+      213: 3824600258696081907
+    second: orbe_20
+  - first:
+      213: 1713406122542714439
+    second: orbe_21
+  - first:
+      213: 7898685679816013003
+    second: orbe_22
+  - first:
+      213: 3485825374703548784
+    second: orbe_23
+  - first:
+      213: 957313946907101411
+    second: orbe_24
+  - first:
+      213: -8628770975590746526
+    second: orbe_25
+  - first:
+      213: 2936187510755503884
+    second: orbe_26
+  - first:
+      213: 414325883883363308
+    second: orbe_27
+  - first:
+      213: -8043179983203724354
+    second: orbe_28
+  - first:
+      213: -5873471736207481254
+    second: orbe_29
+  - first:
+      213: 6685382358454876213
+    second: orbe_30
+  - first:
+      213: -2640452031879418518
+    second: orbe_31
+  - first:
+      213: -1294152100197010138
+    second: orbe_32
+  - first:
+      213: -3315112836634755164
+    second: orbe_33
+  - first:
+      213: -774620000701100863
+    second: orbe_34
+  - first:
+      213: -5421284665064998582
+    second: orbe_35
+  - first:
+      213: 1289331006532792226
+    second: orbe_36
+  - first:
+      213: 6622759104614223511
+    second: orbe_37
+  - first:
+      213: 3001661790663831518
+    second: orbe_38
+  - first:
+      213: -8189214789338487413
+    second: orbe_39
+  - first:
+      213: 6057105700307206011
+    second: orbe_40
+  - first:
+      213: 8052916949645560110
+    second: orbe_41
+  - first:
+      213: -6739776128031562595
+    second: orbe_42
+  - first:
+      213: 7148202240851503956
+    second: orbe_43
+  - first:
+      213: -5221143047436010779
+    second: orbe_44
+  - first:
+      213: -7603651853509658849
+    second: orbe_45
+  - first:
+      213: -5605910250029637522
+    second: orbe_46
+  - first:
+      213: 1378942226342873058
+    second: orbe_47
+  - first:
+      213: 6879111750232691410
+    second: orbe_48
+  - first:
+      213: -3757785824007610816
+    second: orbe_49
+  - first:
+      213: -163883283171656560
+    second: orbe_50
+  - first:
+      213: -6868073748411971113
+    second: orbe_51
+  - first:
+      213: 6574434637156829987
+    second: orbe_52
+  - first:
+      213: -8283527937636274543
+    second: orbe_53
+  - first:
+      213: 5953290228785439381
+    second: orbe_54
+  - first:
+      213: 5936603768856164018
+    second: orbe_55
+  - first:
+      213: -8467039484229782942
+    second: orbe_56
+  - first:
+      213: 2596464822604495432
+    second: orbe_57
+  - first:
+      213: -1358926897325065220
+    second: orbe_58
+  - first:
+      213: -3262581120252621902
+    second: orbe_59
+  - first:
+      213: 8916509247311311038
+    second: orbe_60
+  - first:
+      213: -4579444329211595768
+    second: orbe_61
+  - first:
+      213: 8581352810455760135
+    second: orbe_62
+  - first:
+      213: 2618365382508752699
+    second: orbe_63
+  - first:
+      213: -7532000812990261854
+    second: orbe_64
+  - first:
+      213: 3154276914164882133
+    second: orbe_65
+  - first:
+      213: -1304278720467287940
+    second: orbe_66
+  - first:
+      213: -638532934660404879
+    second: orbe_67
+  - first:
+      213: 2095372999939296129
+    second: orbe_68
+  - first:
+      213: -4211693852434463642
+    second: orbe_69
+  - first:
+      213: 7102383992513411711
+    second: orbe_70
+  - first:
+      213: -3494339821857088152
+    second: orbe_71
+  - first:
+      213: 444384682552357564
+    second: orbe_72
+  - first:
+      213: -1016513054158952397
+    second: orbe_73
+  - first:
+      213: -4985356025107119556
+    second: orbe_74
+  - first:
+      213: 359368519290134178
+    second: orbe_75
+  - first:
+      213: -1874276004135596197
+    second: orbe_0
+  - first:
+      213: 7611433989848714082
+    second: orbe_1
+  - first:
+      213: 7626532951178403873
+    second: orbe_2
+  - first:
+      213: -312777116905543920
+    second: orbe_3
+  - first:
+      213: -367544297356577701
+    second: orbe_4
+  - first:
+      213: -2770043180245832468
+    second: orbe_5
+  - first:
+      213: -8502869395911559584
+    second: orbe_6
+  - first:
+      213: -2383333931422504298
+    second: orbe_7
+  - first:
+      213: 6037822285431283370
+    second: orbe_8
+  - first:
+      213: -8310639225845774173
+    second: orbe_9
+  - first:
+      213: 1530903114371585110
+    second: orbe_10
+  - first:
+      213: 6201987133622192628
+    second: orbe_11
+  - first:
+      213: -7942385952655492983
+    second: orbe_12
+  - first:
+      213: 8454122946861720036
+    second: orbe_13
+  - first:
+      213: 1919820740992518096
+    second: orbe_14
+  - first:
+      213: 19450340073493842
+    second: orbe_15
+  - first:
+      213: 1053313056910389171
+    second: orbe_16
+  - first:
+      213: 7885048885384940701
+    second: orbe_17
+  - first:
+      213: 7523971105697084349
+    second: orbe_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orbe_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 269
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f857297eb3df5e0800000000000000
+      internalID: -1874276004135596197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 269
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b444cf2ee31a960800000000000000
+      internalID: 7611433989848714082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 269
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120eccedf43e6d960800000000000000
+      internalID: 7626532951178403873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 269
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01769fc8edac8abf0800000000000000
+      internalID: -312777116905543920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 204
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5437dca86836eaf0800000000000000
+      internalID: -367544297356577701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 204
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec24f46764de89d0800000000000000
+      internalID: -2770043180245832468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 204
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b625a55dbff980800000000000000
+      internalID: -8502869395911559584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 204
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2d64ba62bceed0800000000000000
+      internalID: -2383333931422504298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 139
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae911cf067aac350800000000000000
+      internalID: 6037822285431283370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 139
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8090fd7adaaac80800000000000000
+      internalID: -8310639225845774173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65458ad754cde3510800000000000000
+      internalID: 1530903114371585110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 139
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f908114072e11650800000000000000
+      internalID: 6201987133622192628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 74
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988baee7e0af6c190800000000000000
+      internalID: -7942385952655492983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 74
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1eb2f3704135570800000000000000
+      internalID: 8454122946861720036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 74
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d74943dac294aa10800000000000000
+      internalID: 1919820740992518096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 74
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25557d23bf9154000800000000000000
+      internalID: 19450340073493842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfac6205ae1e9e00800000000000000
+      internalID: 1053313056910389171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c85f93f225d6d60800000000000000
+      internalID: 7885048885384940701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orbe_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 9
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b06f5bd38a6860800000000000000
+      internalID: 7523971105697084349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
